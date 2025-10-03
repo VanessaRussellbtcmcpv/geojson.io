@@ -42,3 +42,5 @@ Deployment to GitHub Pages works automatically by pushing to the main branch whi
 ## License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fgeojson.io.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fgeojson.io?ref=badge_large)
+
+<!-- Auto-update: 2025-10-03T12:03:03.530990 -->
